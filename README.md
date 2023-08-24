@@ -8,7 +8,7 @@ This repository will host most (if not all) of the talks (conferences, presentat
 
 
 ## Past talks
-
+ 
 Date|Conference/Meetup|Talk|Slides/Demo/Recording
 :---------:|:---------------:|:--:|:--------------------:
 16 June'23 | Discord Session | [Testing APIs with Keploy](https://twitter.com/shivv_twt/status/1669379245976453125)
